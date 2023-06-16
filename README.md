@@ -8,3 +8,5 @@ Not changed:
 - Wands
 
 7.4 feeling on a 7.72 client.
+
+Credits: @EtrnalOblong from OTLand.net for the release.
